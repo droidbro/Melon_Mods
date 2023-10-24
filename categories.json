@@ -29,6 +29,11 @@
       "id": "6",
       "name": "Swords",
       "url": "https://melonjava.s3.eu-west-3.amazonaws.com/test2/Swords/Blade of Chaos/3.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Vehicles",
+      "url": "https://melonjava.s3.eu-west-3.amazonaws.com/test2/Vehicles/Balloon mod/3.jpg"
     }
   ]
 }
